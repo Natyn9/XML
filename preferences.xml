@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+	<favorite_movie>Titanic</favorite_movie>
+	<favorite_series>Supernatural</favorite_series>
+	<favorite_food>Pasta</favorite_food>
+	<favorite_season>Summer</favorite_season>
+	<Country_you_would_like_to_visit>USA</Country_you_would_like_to_visit>
+</person>
